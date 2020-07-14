@@ -1,7 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="365a40d2-2ae1-4d90-b543-476690b123f6" name="Default Changelist" comment="" />
+    <list default="true" id="365a40d2-2ae1-4d90-b543-476690b123f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/mm/UserItemsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/mm/UserItemsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/om/OrdersAndDetailMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/om/OrdersAndDetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/oo/OrdersUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/oo/OrdersUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/mapper/ItemsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/mapper/ItemsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/mapper/OrderdetailMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/mapper/OrderdetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/mapper/OrdersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/mapper/OrdersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/pojo/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/pojo/ItemsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/pojo/Orderdetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/pojo/OrderdetailExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/pojo/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/pojo/OrdersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/generator/pojo/UserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bj/test04/sql/UserMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bj/test05/mm/UserItemsMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bj/test05/om/OrdersAndDetailMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bj/test05/oo/OrdersUserMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bj/test06/generator/mapper/ItemsMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/shixiTest2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/mm/UserItemsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/mm/UserItemsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/om/OrdersAndDetailMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/om/OrdersAndDetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/oo/OrdersUserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/oo/OrdersUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/mapper/ItemsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/mapper/ItemsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/mapper/OrderdetailMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/mapper/OrderdetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/mapper/OrdersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/mapper/OrdersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/Items.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/ItemsExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/ItemsExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/ItemsExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/ItemsExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/Orderdetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/OrderdetailExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/OrderdetailExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/OrderdetailExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/OrderdetailExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/Orders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/OrdersExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/OrdersExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/OrdersExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/OrdersExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/UserExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/UserExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/UserExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/generator/pojo/UserExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/bj/test04/sql/UserMapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/bj/test05/mm/UserItemsMapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/bj/test05/om/OrdersAndDetailMapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/bj/test05/oo/OrdersUserMapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/bj/test06/generator/mapper/ItemsMapperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bj/test04/sql/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bj/test04/sql/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bj/test04/sql/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bj/test04/sql/UserMapper.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +91,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\IdeaCode\shixiTest2\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -38,123 +118,164 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1egJ5ltovd2OxOg7w6fD1D6NNdh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.bj.test06.generator.mapper" />
+      <recent name="com.bj.test05.oo" />
+      <recent name="com.bj.test04.sql" />
       <recent name="com.bj.test03.mapper" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IdeaCode\shixiTest2\src\main\java\com\bj\test04\sql" />
-      <recent name="E:\IdeaCode\shixiTest2\src\main\java\com\bj\test03\mapper" />
-      <recent name="E:\IdeaCode\shixiTest2\src\main\java\com\bj\pojo" />
+      <recent name="E:\IdeaCode\shixiTest2\src\resources" />
+      <recent name="E:\IdeaCode\shixiTest2\src\test\java\com\bj\test05" />
+      <recent name="E:\IdeaCode\shixiTest2\src\main\java\com\bj\test06\generator\pojo" />
+      <recent name="E:\IdeaCode\shixiTest2\src\main\java\com\bj\test06\generator\mapper" />
+      <recent name="E:\IdeaCode\shixiTest2\src\main\java\com\bj\test05\oo" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserMapperTest.updateById">
-    <configuration name="UserMapperTest.deleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ItemsMapperTest.selectByExample">
+    <configuration name="ItemsMapperTest.selectByExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shixiTest2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bj.test03.mapper.*" />
+          <option name="PATTERN" value="com.bj.test06.generator.mapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bj.test03.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.bj.test03.mapper.UserMapperTest" />
-      <option name="METHOD_NAME" value="deleteById" />
+      <option name="PACKAGE_NAME" value="com.bj.test06.generator.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test06.generator.mapper.ItemsMapperTest" />
+      <option name="METHOD_NAME" value="selectByExample" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserMapperTest.findByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrdersAndDetailMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shixiTest2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bj.test03.mapper.*" />
+          <option name="PATTERN" value="com.bj.test05.om.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bj.test03.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.bj.test03.mapper.UserMapperTest" />
-      <option name="METHOD_NAME" value="findByName" />
+      <option name="PACKAGE_NAME" value="com.bj.test05.om" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test05.om.OrdersAndDetailMapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersAndDetailMapperTest.find" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shixiTest2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bj.test05.om.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bj.test05.om" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test05.om.OrdersAndDetailMapperTest" />
+      <option name="METHOD_NAME" value="find" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserMapperTest.findOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrdersUserMapperTest.find" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shixiTest2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bj.test03.mapper.*" />
+          <option name="PATTERN" value="com.bj.test05.oo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bj.test03.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.bj.test03.mapper.UserMapperTest" />
-      <option name="METHOD_NAME" value="findOne" />
+      <option name="PACKAGE_NAME" value="com.bj.test05.oo" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test05.oo.OrdersUserMapperTest" />
+      <option name="METHOD_NAME" value="find" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserMapperTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserItemsMapperTest.find" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shixiTest2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bj.test03.mapper.*" />
+          <option name="PATTERN" value="com.bj.test05.mm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bj.test03.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.bj.test03.mapper.UserMapperTest" />
-      <option name="METHOD_NAME" value="insert" />
+      <option name="PACKAGE_NAME" value="com.bj.test05.mm" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test05.mm.UserItemsMapperTest" />
+      <option name="METHOD_NAME" value="find" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserMapperTest.updateById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="shixiTest2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bj.test03.mapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bj.test03.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.bj.test03.mapper.UserMapperTest" />
-      <option name="METHOD_NAME" value="updateById" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="shixiTest2 [mybatis-generator:generate...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.OrdersAndDetailMapperTest" />
+      <item itemvalue="JUnit.OrdersAndDetailMapperTest.find" />
+      <item itemvalue="JUnit.OrdersUserMapperTest.find" />
+      <item itemvalue="JUnit.UserItemsMapperTest.find" />
+      <item itemvalue="Maven.shixiTest2 [mybatis-generator:generate...]" />
+      <item itemvalue="JUnit.ItemsMapperTest.selectByExample" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserMapperTest.updateById" />
-        <item itemvalue="JUnit.UserMapperTest.insert" />
-        <item itemvalue="JUnit.UserMapperTest.deleteById" />
-        <item itemvalue="JUnit.UserMapperTest.findByName" />
-        <item itemvalue="JUnit.UserMapperTest.findOne" />
+        <item itemvalue="JUnit.ItemsMapperTest.selectByExample" />
+        <item itemvalue="JUnit.UserItemsMapperTest.find" />
+        <item itemvalue="JUnit.OrdersAndDetailMapperTest.find" />
+        <item itemvalue="JUnit.OrdersAndDetailMapperTest" />
+        <item itemvalue="JUnit.OrdersUserMapperTest.find" />
       </list>
     </recent_temporary>
   </component>
@@ -180,45 +301,94 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594737121796</updated>
-      <workItem from="1594737124964" duration="4967000" />
+      <workItem from="1594737124964" duration="12927000" />
     </task>
+    <task id="LOCAL-00001" summary="mybatis">
+      <created>1594742174005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594742174005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="mybatis" />
+    <option name="LAST_COMMIT_MESSAGE" value="mybatis" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594749299367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594749299367" />
     <state x="399" y="106" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1594738354596">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="399" y="106" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594738354596" />
+    <state x="429" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594749332555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="429" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1594749332555" />
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594745954221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1594745954221" />
+    <state x="385" y="7" key="CommitChangelistDialog2" timestamp="1594742172918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594742172918" />
     <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1594742093270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594742093270" />
-    <state width="1493" height="422" key="GridCell.Tab.0.bottom" timestamp="1594741871460">
+    <state width="1493" height="480" key="GridCell.Tab.0.bottom" timestamp="1594750025816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="422" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594741871460" />
-    <state width="1493" height="422" key="GridCell.Tab.0.center" timestamp="1594741871460">
+    <state width="1493" height="480" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594750025816" />
+    <state width="1493" height="480" key="GridCell.Tab.0.center" timestamp="1594750025816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="422" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594741871460" />
-    <state width="1493" height="422" key="GridCell.Tab.0.left" timestamp="1594741871460">
+    <state width="1493" height="480" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594750025816" />
+    <state width="1493" height="480" key="GridCell.Tab.0.left" timestamp="1594750025816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="422" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594741871460" />
-    <state width="1493" height="422" key="GridCell.Tab.0.right" timestamp="1594741871460">
+    <state width="1493" height="480" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594750025816" />
+    <state width="1493" height="480" key="GridCell.Tab.0.right" timestamp="1594750025816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="422" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594741871460" />
+    <state width="1493" height="480" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594750025816" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594747930544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594747930544" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594747930544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594747930544" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594747930544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594747930544" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594747930544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594747930544" />
     <state x="272" y="58" key="SettingsEditor" timestamp="1594737603621">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594737603621" />
-    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594739271410">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1594742249002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1594739271410" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594742249002" />
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594749561385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1594749561385" />
   </component>
 </project>
