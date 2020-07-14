@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="365a40d2-2ae1-4d90-b543-476690b123f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SqlMapConfig" />
+        <option value="FxmlFile" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\.m2\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1egJ5ltovd2OxOg7w6fD1D6NNdh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.bj.test03.mapper" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaCode\shixiTest2\src\main\java\com\bj\test04\sql" />
+      <recent name="E:\IdeaCode\shixiTest2\src\main\java\com\bj\test03\mapper" />
+      <recent name="E:\IdeaCode\shixiTest2\src\main\java\com\bj\pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserMapperTest.updateById">
+    <configuration name="UserMapperTest.deleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shixiTest2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bj.test03.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bj.test03.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test03.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="deleteById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.findByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shixiTest2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bj.test03.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bj.test03.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test03.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="findByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.findOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shixiTest2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bj.test03.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bj.test03.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test03.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="findOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shixiTest2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bj.test03.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bj.test03.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test03.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.updateById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shixiTest2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bj.test03.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bj.test03.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test03.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="updateById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserMapperTest.updateById" />
+        <item itemvalue="JUnit.UserMapperTest.insert" />
+        <item itemvalue="JUnit.UserMapperTest.deleteById" />
+        <item itemvalue="JUnit.UserMapperTest.findByName" />
+        <item itemvalue="JUnit.UserMapperTest.findOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="365a40d2-2ae1-4d90-b543-476690b123f6" name="Default Changelist" comment="" />
+      <created>1594737121796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594737121796</updated>
+      <workItem from="1594737124964" duration="4967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="106" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1594738354596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="106" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594738354596" />
+    <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1594742093270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594742093270" />
+    <state width="1493" height="422" key="GridCell.Tab.0.bottom" timestamp="1594741871460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="422" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594741871460" />
+    <state width="1493" height="422" key="GridCell.Tab.0.center" timestamp="1594741871460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="422" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594741871460" />
+    <state width="1493" height="422" key="GridCell.Tab.0.left" timestamp="1594741871460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="422" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594741871460" />
+    <state width="1493" height="422" key="GridCell.Tab.0.right" timestamp="1594741871460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="422" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594741871460" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1594737603621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594737603621" />
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594739271410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1594739271410" />
+  </component>
+</project>
